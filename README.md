@@ -1,5 +1,6 @@
 <a href="https://github.com/1238muj/Premium-filter-RIO-NETWORKS-/stargazers"><img src="https://img.shields.io/github/stars/1238muj/Premiun-filter-RIO-NETWORKS-?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
 <a href="https://github.com/1238muj/Premium-filter-RIO-NETWORKS-/network/members"> <img src="https://img.shields.io/github/forks/1238muj/Premium-filter-RIO-NETWORKS-?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/1238muj/Premium-filter-RIO-NETWORKS-"> <img src="https://img.shields.io/github/repo-size/1238muj/Premium-filter-RIO-NETWORKS-?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
 
 
 
