@@ -160,7 +160,7 @@ link - 🖇️ ʟɪɴᴋ ᴛᴏ ᴘᴏsᴛ (ᴀᴅᴍɪɴ ᴏɴʟʏ)
 
  - Thanks To All Everyone In This Journey
  - Thanks To [EvamariaTG](https://raw.githubusercontent.com/EvamariaTG) for their awesome [EvaMaria Bot](https://raw.githubusercontent.com/EvamariaTG/EvaMaria)
- - Thanks To [Joelkb](https://telegram.me/creatorrio) who have edited and modified this repo as now it is. (It's me 😂)
+ - Thanks To [RIO NETWORKS](https://telegram.me/creatorrio) who have edited and modified this repo as now it is. (It's me 😂)
 
 ## Dɪsᴄʟᴀᴍɪɴᴇʀ
 
