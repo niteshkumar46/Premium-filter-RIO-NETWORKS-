@@ -1,5 +1,4 @@
-<a href="https://github.com/1238muj/Premium-filter-RIO-NETWORKS-/stargazers"><img src="https://img.shields.io/github/stars/Premium-filter-RIO-NETWORKS-?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a 
+<a href="https://github.com/1238muj/Premium-filter-RIO-NETWORKS-/stargazers"><img src="https://img.shields.io/github/stars/1238muj/Premiun-filter-RIO-NETWORKS-?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
 
 
 NOTE 🚫 This repo Is copy for Tamilan Botz original repo link 👇
