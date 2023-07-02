@@ -158,10 +158,9 @@ link - 🖇️ ʟɪɴᴋ ᴛᴏ ᴘᴏsᴛ (ᴀᴅᴍɪɴ ᴏɴʟʏ)
 * [![Contach Repo Owner](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/SharathItsIsme)
 
 
-## Tʜᴀɴᴋs Tᴏ 
- <b>- Tʜᴀɴᴋs Tᴏ Mᴇ 🤩
- - Tʜᴀɴᴋs Tᴏ Eᴠᴀ Mᴀʀɪᴇ Tᴇᴀᴍ❣️
- - Tʜᴀɴᴋs Tᴏ Oᴜʀ Usᴇʀs </b>😇
+ - Thanks To All Everyone In This Journey
+ - Thanks To [EvamariaTG](https://raw.githubusercontent.com/EvamariaTG) for their awesome [EvaMaria Bot](https://raw.githubusercontent.com/EvamariaTG/EvaMaria)
+ - Thanks To [Joelkb](https://telegram.me/creatorrio) who have edited and modified this repo as now it is. (It's me 😂)
 
 ## Dɪsᴄʟᴀᴍɪɴᴇʀ
 
