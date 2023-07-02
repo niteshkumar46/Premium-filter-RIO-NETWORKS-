@@ -6,7 +6,9 @@
     <b>Pʀᴇᴍɪᴜᴍ Fɪʟᴛᴇʀ Rᴇᴩᴏ</b>
     </h1>
 
-# 👩‍💻 Cᴏᴅᴇᴅᴇᴅ Bʏ TᴀᴍɪʟᴀɴBᴏᴛsZ 
+# 👩‍💻 100 Coded BY TamilanBotz 👇
+
+ - Thanks To [TamilanBotz](https://t.me/TamilanBotsZ_Support)m) who have edited and modified this repo as now it is. (This repo fully coded  TamilanBotz)
 
 🌟 <b>Fᴏʀᴋ & Sᴛᴀʀ Nᴏᴡ</b> 💥
 
