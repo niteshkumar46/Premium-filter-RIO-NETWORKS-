@@ -1,14 +1,3 @@
-<a href="https://github.com/1238muj/Premium-filter-RIO-NETWORKS-/stargazers"><img src="https://img.shields.io/github/stars/1238muj/Premiun-filter-RIO-NETWORKS-?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/1238muj/Premium-filter-RIO-NETWORKS-/network/members"> <img src="https://img.shields.io/github/forks/1238muj/Premium-filter-RIO-NETWORKS-?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/1238muj/Premium-filter-RIO-NETWORKS-"> <img src="https://img.shields.io/github/repo-size/1238muj/Premium-filter-RIO-NETWORKS-?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/1238muj/Premium-filter-RIO-NETWORKS-/commits/https://github.com/1238muj/Premium-filter-RIO-NETWORKS-/commits/1238muj"> <img src="https://img.shields.io/github/last-commit/1238muj/Premium-filter-RIO-NETWORKS-?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
-
-
-
-NOTE 🚫 This repo Is copy for Tamilan Botz original repo link 👇
-* [![Contach Repo Owner](https://img.shields.io/static/v1?label=ORIGINAL+REPO&message=On+GITHUB&color=critical)](https://github.com/TamilanBotsZ/PremiumFilter)
-
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Wᴇʟᴄᴏᴍᴇ+Tᴏ+Pʀᴇᴍɪᴜᴍ+Fɪʟᴛᴇʀ+Bᴏᴛ+Rᴇᴘᴏ+!!!!!;Cʀᴇᴀᴛᴇᴅ+Bʏ+TᴀᴍɪʟᴀɴBᴏᴛsZ+RIONETWORKS+Tᴇᴀᴍ+!!!!!;Mᴀᴅᴇ+Wɪᴛʜ+Tᴀᴍɪʟᴀɴ+Lᴏᴠᴇ+♥️+!!!!)</p>
@@ -34,6 +23,11 @@ href="https://github.com/1238muj/Premium-filter-RIO-NETWORKS-/stargazers"><img s
 - 🍴 500 Fᴏʀᴋs 
 - Oʀ ◑
 - 🌟 100 Sᴛᴀʀs </b>
+
+
+NOTE 🚫 This repo Is copy for Tamilan Botz original repo link 👇
+* [![Contach Repo Owner](https://img.shields.io/static/v1?label=ORIGINAL+REPO&message=On+GITHUB&color=critical)](https://github.com/TamilanBotsZ/PremiumFilter)
+
 
 ## HɪɢʜLɪɢʜᴛ Fᴇᴀᴛᴜʀᴇs <b>
 
