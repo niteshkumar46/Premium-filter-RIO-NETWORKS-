@@ -22,23 +22,23 @@ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Nᴏᴡ 👇</b>"""
     PONG_TXT = """Cʜᴇᴄᴋ Mʏ Pɪɴɢ Bʏ Cʟɪᴄᴋɪɴɢ 👉 /ping"""
 
     ABOUT_TXT ="""<b>🤖Mʏ Nᴀᴍᴇ:{}
-👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/creatorrio>Click</a>
+👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/Himanshu_7357>Click</a>
 📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : HEROKU 
-📢 Movie Group : <a href=https://t.me/tamilmovies4Krio>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>"""
+📢 Movie Group : <a href=https://t.me/+u9Nt77_9iRtiNTM1>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>"""
     SOURCES_TXT ="""This source is public source code don't sale money source code link 👇
   
--<a href=https://github.com/1238muj/Premium-filter-RIO-NETWORKS->SOURCE CODE</a>
+-<a href=https://t.me/nkp_pro->SOURCE CODE</a>
 
--<a href=https://t.me/creatorrio>THIS BOT OWNER any issues Contact Owner</a>"""
+-<a href=https://t.me/nkp_pro>THIS BOT OWNER any issues Contact Owner</a>"""
 
 
     SOURCES_TXT ="""This source is public source code don't sale money source code link 👇
   
--<a href=https://github.com/1238muj/Premium-filter-RIO-NETWORKS->SOURCE CODE</a>
+-<a href=https://t.me/nkp_pro->SOURCE CODE</a>
 
--<a href=https://t.me/creatorrio>THIS BOT OWNER any issues Contact Owner</a>"""
+-<a href=https://t.me/Himanshu_7357>THIS BOT OWNER any issues Contact Owner</a>"""
 
     FONT_TXT = """I Cᴀɴ Gᴇɴᴇʀᴀᴛᴇ Aᴛᴛʀᴀᴄᴛɪᴠᴇ Fᴏɴᴛs Fᴏʀ Yᴏᴜʀ Tᴇxᴛ Sᴇɴᴅ Lɪᴋᴇ Tʜɪs 👇
 
@@ -66,7 +66,7 @@ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Nᴏᴡ 👇</b>"""
 
     MANUELFILTER_TXT = """<b>Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ Mᴏᴠɪᴇs / Sᴇʀɪᴇs Usɪɴɢ Tʜɪs Bᴏᴛ</b> 😌 🔋
 
-<b>Fɪʀsᴛ Jᴏɪɴ Tʜɪs Gʀᴏᴜᴩ » https://t.me/tamilmovies4Krio</b>
+<b>Fɪʀsᴛ Jᴏɪɴ Tʜɪs Gʀᴏᴜᴩ » https://t.me/+u9Nt77_9iRtiNTM1</b>
 
 <b>Sᴇɴᴅ Yᴏᴜ Wᴀɴᴛ Mᴏᴠɪᴇs Oʀ Sᴇʀɪᴇs Nᴀᴍᴇ Wɪᴛʜ Cᴏʀʀᴇᴄᴛ Sᴩᴇʟʟɪɴɢ</b>
 
